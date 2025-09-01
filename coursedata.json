@@ -1,0 +1,953 @@
+{
+    "ai_machine_learning": {
+        "title": "AI & Machine Learning",
+        "featured_courses": [
+            {
+                "name": "Stanford/Coursera",
+                "instructor": "Andrew Ng",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+                "price": "Free to audit / $49/month for certificate",
+                "rating": 4.9,
+                "duration": "3 months",
+                "level": "Beginner to Intermediate",
+                "description": "Complete beginner-friendly introduction to machine learning by Andrew Ng"
+            },
+            {
+                "name": "Machine Learning Specialization - Stanford/Coursera",
+                "instructor": "Andrew Ng",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+                "price": "Free to audit / $49/month for certificate",
+                "rating": 4.9,
+                "duration": "3 months",
+                "level": "Beginner to Intermediate",    
+                "description": "Complete beginner-friendly introduction to machine learning by Andrew Ng"
+            },
+            {
+                "name": "Deep Learning Specialization",
+                "instructor": "Andrew Ng",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/deep-learning",
+                "price": "Free to audit / $49/month",
+                "rating": 4.9,
+                "duration": "4 months",
+                "level": "Intermediate",
+                "description": "Master deep neural networks and cutting-edge AI applications"
+            },
+            {
+                "name": "CS229: Machine Learning - Stanford",
+                "instructor": "Andrew Ng",
+                "platform": "YouTube/Stanford Online",
+                "url": "https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
+                "price": "Free",
+                "rating": 4.8,
+                "duration": "Self-paced",
+                "level": "Advanced",
+                "description": "Stanford's famous machine learning course with mathematical rigor"
+            },
+            {
+                "name": "AI & ML Full Course 2025 - Edureka",
+                "instructor": "Edureka",
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=N8svLoC2eNA",
+                "price": "Free",
+                "rating": 4.7,
+                "duration": "10+ hours",
+                "level": "Beginner to Advanced",
+                "description": "Complete 2025 AI/ML tutorial with hands-on projects and Python examples"
+            },
+            {
+                "name": "IBM AI Engineering Professional Certificate",
+                "instructor": "IBM",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/professional-certificates/ai-engineer",
+                "price": "$49/month",
+                "rating": 4.6,
+                "duration": "6 months",
+                "level": "Intermediate",
+                "description": "Job-ready skills for AI engineering with TensorFlow and PyTorch"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "3Blue1Brown",
+                "url": "https://www.youtube.com/c/3blue1brown",
+                "description": "Visual explanations of neural networks and linear algebra"
+            },
+            {
+                "name": "Two Minute Papers",
+                "url": "https://www.youtube.com/c/K%C3%A1rolyZsolnai",
+                "description": "Latest AI research papers explained in 2 minutes"
+            },
+            {
+                "name": "Sentdex",
+                "url": "https://www.youtube.com/c/sentdex",
+                "description": "Python programming for machine learning and AI"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "Fast.ai Practical Deep Learning",
+                "url": "https://course.fast.ai/",
+                "description": "Top-down approach to deep learning"
+            },
+            {
+                "name": "ML YouTube Courses - DAIR.AI",
+                "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+                "description": "Curated list of machine learning courses on YouTube"
+            },
+            {
+                "name": "Kaggle Learn",
+                "url": "https://www.kaggle.com/learn",
+                "description": "Free micro-courses on machine learning topics"
+            }
+        ]
+    },
+    "data_science": {
+        "title": "Data Science & Analytics",
+        "featured_courses": [
+            {
+                "name": "Data Science Specialization - Johns Hopkins",
+                "instructor": "JHU Faculty",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/jhu-data-science",
+                "price": "Free to audit / $49/month",
+                "rating": 4.5,
+                "duration": "10 months",
+                "level": "Beginner to Intermediate",
+                "description": "Comprehensive data science program using R programming"
+            },
+            {
+                "name": "IBM Data Science Professional Certificate",
+                "instructor": "IBM",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+                "price": "$49/month",
+                "rating": 4.6,
+                "duration": "6 months",
+                "level": "Beginner",
+                "description": "Hands-on data science skills with Python and SQL"
+            },
+            {
+                "name": "CS109 Data Science - Harvard",
+                "instructor": "Harvard Faculty",
+                "platform": "Harvard Online",
+                "url": "https://cs109.github.io/2015/",
+                "price": "Free",
+                "rating": 4.8,
+                "duration": "Self-paced",
+                "level": "Intermediate",
+                "description": "Harvard's comprehensive data science course with Python"
+            },
+            {
+                "name": "Data Science MicroMasters - UC San Diego",
+                "instructor": "UCSD Faculty",
+                "platform": "edX",
+                "url": "https://www.edx.org/micromasters/uc-san-diegox-data-science",
+                "price": "Free to audit / $1,260 for certificate",
+                "rating": 4.7,
+                "duration": "10-14 months",
+                "level": "Intermediate to Advanced",
+                "description": "Graduate-level data science program with Python"
+            },
+            {
+                "name": "Applied Data Science with Python - University of Michigan",
+                "instructor": "UM Faculty",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/data-science-python",
+                "price": "Free to audit / $49/month",
+                "rating": 4.5,
+                "duration": "5 months",
+                "level": "Intermediate",
+                "description": "Hands-on data science using Python libraries"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "StatQuest with Josh Starmer",
+                "url": "https://www.youtube.com/c/joshstarmer",
+                "description": "Statistics and machine learning concepts made simple"
+            },
+            {
+                "name": "Ken Jee",
+                "url": "https://www.youtube.com/c/KenJee1",
+                "description": "Data science career advice and project tutorials"
+            },
+            {
+                "name": "Corey Schafer",
+                "url": "https://www.youtube.com/c/Coreyms",
+                "description": "Python programming tutorials for data science"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "365 Data Science",
+                "url": "https://365datascience.com/",
+                "description": "Comprehensive data science platform with free courses"
+            },
+            {
+                "name": "DataCamp",
+                "url": "https://www.datacamp.com/",
+                "description": "Interactive data science courses (limited free content)"
+            },
+            {
+                "name": "Towards Data Science (Medium)",
+                "url": "https://towardsdatascience.com/",
+                "description": "Data science articles and tutorials"
+            }
+        ]
+    },
+    "cybersecurity": {
+        "title": "Cybersecurity & Information Security",
+        "featured_courses": [
+            {
+                "name": "Cybersecurity Specialization - University of Maryland",
+                "instructor": "UMD Faculty",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/cyber-security",
+                "price": "Free to audit / $49/month",
+                "rating": 4.7,
+                "duration": "6 months",
+                "level": "Intermediate",
+                "description": "Comprehensive cybersecurity fundamentals and hands-on experience"
+            },
+            {
+                "name": "CompTIA Security+ Certification Training",
+                "instructor": "Various",
+                "platform": "Multiple (Cybrary, Professor Messer)",
+                "url": "https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/",
+                "price": "Free",
+                "rating": 4.8,
+                "duration": "40+ hours",
+                "level": "Beginner to Intermediate",
+                "description": "Complete Security+ certification preparation"
+            },
+            {
+                "name": "CISSP Certification Training - Simplilearn",
+                "instructor": "Simplilearn",
+                "platform": "Simplilearn",
+                "url": "https://www.simplilearn.com/cyber-security-expert-master-program-training-course",
+                "price": "$377 (often discounted)",
+                "rating": 4.6,
+                "duration": "6 months",
+                "level": "Advanced",
+                "description": "Master's program preparing for CISSP, CEH, and CompTIA certifications"
+            },
+            {
+                "name": "Ethical Hacking with Python",
+                "instructor": "Various",
+                "platform": "YouTube/Cybrary",
+                "url": "https://www.cybrary.it/course/python-for-security-professionals/",
+                "price": "Free",
+                "rating": 4.5,
+                "duration": "15 hours",
+                "level": "Intermediate",
+                "description": "Learn ethical hacking and security automation with Python"
+            },
+            {
+                "name": "Cisco Cybersecurity Essentials",
+                "instructor": "Cisco",
+                "platform": "Cisco Networking Academy",
+                "url": "https://www.netacad.com/courses/cybersecurity-essentials",
+                "price": "Free",
+                "rating": 4.6,
+                "duration": "30 hours",
+                "level": "Beginner",
+                "description": "Foundational cybersecurity concepts and practices"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "Professor Messer",
+                "url": "https://www.youtube.com/c/professormesser",
+                "description": "CompTIA Security+ and Network+ training"
+            },
+            {
+                "name": "The Cyber Mentor",
+                "url": "https://www.youtube.com/c/TheCyberMentor",
+                "description": "Ethical hacking and penetration testing tutorials"
+            },
+            {
+                "name": "John Hammond",
+                "url": "https://www.youtube.com/c/JohnHammond010",
+                "description": "Cybersecurity challenges and malware analysis"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "Cybrary",
+                "url": "https://www.cybrary.it/",
+                "description": "Free cybersecurity training and career development"
+            },
+            {
+                "name": "OWASP Web Security Testing Guide",
+                "url": "https://owasp.org/www-project-web-security-testing-guide/",
+                "description": "Comprehensive web application security testing guide"
+            },
+            {
+                "name": "SANS Cyber Aces",
+                "url": "https://cyberaces.org/",
+                "description": "Free foundational cybersecurity courses"
+            }
+        ]
+    },
+    "quantum_computing": {
+        "title": "Quantum Computing",
+        "featured_courses": [
+            {
+                "name": "IBM Qiskit Textbook",
+                "instructor": "IBM Quantum Team",
+                "platform": "IBM Quantum Network",
+                "url": "https://qiskit.org/textbook/",
+                "price": "Free",
+                "rating": 4.9,
+                "duration": "Self-paced",
+                "level": "Beginner to Advanced",
+                "description": "Comprehensive quantum computing textbook with hands-on coding"
+            },
+            {
+                "name": "Quantum Computing Fundamentals - MIT xPRO",
+                "instructor": "Will Oliver",
+                "platform": "MIT xPRO",
+                "url": "https://learn-xpro.mit.edu/quantum-computing",
+                "price": "$2,500",
+                "rating": 4.8,
+                "duration": "8 weeks (2 courses)",
+                "level": "Intermediate to Advanced",
+                "description": "Business and technical implications of quantum computing"
+            },
+            {
+                "name": "Quantum Computing for Everyone - University of Chicago",
+                "instructor": "Diana Franklin",
+                "platform": "edX",
+                "url": "https://www.edx.org/course/quantum-computing",
+                "price": "Free to audit / $99 certificate",
+                "rating": 4.6,
+                "duration": "10-12 weeks",
+                "level": "Beginner",
+                "description": "Visual introduction to quantum computing concepts"
+            },
+            {
+                "name": "Quantum Mechanics and Quantum Computation - UC Berkeley",
+                "instructor": "Umesh Vazirani",
+                "platform": "edX",
+                "url": "https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs191x",
+                "price": "Free to audit",
+                "rating": 4.7,
+                "duration": "10 weeks",
+                "level": "Advanced",
+                "description": "Mathematical foundations of quantum computing"
+            },
+            {
+                "name": "Microsoft Quantum Development Kit",
+                "instructor": "Microsoft",
+                "platform": "Microsoft Learn",
+                "url": "https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/",
+                "price": "Free",
+                "rating": 4.5,
+                "duration": "Self-paced",
+                "level": "Beginner to Intermediate",
+                "description": "Learn Q# programming and Azure Quantum platform"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "IBM Quantum",
+                "url": "https://www.youtube.com/c/qiskit",
+                "description": "Qiskit tutorials and quantum computing concepts"
+            },
+            {
+                "name": "MinutePhysics",
+                "url": "https://www.youtube.com/c/minutephysics",
+                "description": "Quantum physics explained visually"
+            },
+            {
+                "name": "Quantum Computation and Information",
+                "url": "https://www.youtube.com/channel/UCZ8bOIaFWV4YOYYbAVoKlWA",
+                "description": "Advanced quantum computing lectures"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "Quantum Computing Playground",
+                "url": "http://www.quantumplayground.net/",
+                "description": "Visual quantum circuit simulator"
+            },
+            {
+                "name": "Cirq - Google Quantum AI",
+                "url": "https://quantumai.google/cirq",
+                "description": "Python framework for quantum circuits"
+            },
+            {
+                "name": "PennyLane",
+                "url": "https://pennylane.ai/",
+                "description": "Quantum machine learning library"
+            }
+        ]
+    },
+    "generative_ai_llm": {
+        "title": "Generative AI & Large Language Models",
+        "featured_courses": [
+            {
+                "name": "Generative AI with Large Language Models",
+                "instructor": "DeepLearning.AI & AWS",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+                "price": "Free to audit / $49/month",
+                "rating": 4.8,
+                "duration": "3 weeks",
+                "level": "Intermediate",
+                "description": "Hands-on course on building and deploying LLM applications"
+            },
+            {
+                "name": "Generative AI Engineering with LLMs Specialization",
+                "instructor": "IBM",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/generative-ai-engineering-with-llms",
+                "price": "$49/month",
+                "rating": 4.6,
+                "duration": "7 courses",
+                "level": "Intermediate to Advanced",
+                "description": "Master LLM engineering, fine-tuning, and RAG applications"
+            },
+            {
+                "name": "ChatGPT Prompt Engineering for Developers",
+                "instructor": "DeepLearning.AI & OpenAI",
+                "platform": "DeepLearning.AI",
+                "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+                "price": "Free",
+                "rating": 4.9,
+                "duration": "1.5 hours",
+                "level": "Beginner to Intermediate",
+                "description": "Learn effective prompting techniques for GPT models"
+            },
+            {
+                "name": "LangChain for LLM Application Development",
+                "instructor": "DeepLearning.AI",
+                "platform": "DeepLearning.AI",
+                "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+                "price": "Free",
+                "rating": 4.8,
+                "duration": "1.5 hours",
+                "level": "Intermediate",
+                "description": "Build LLM applications using LangChain framework"
+            },
+            {
+                "name": "Building Systems with the ChatGPT API",
+                "instructor": "DeepLearning.AI & OpenAI",
+                "platform": "DeepLearning.AI",
+                "url": "https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/",
+                "price": "Free",
+                "rating": 4.7,
+                "duration": "1.5 hours",
+                "level": "Intermediate",
+                "description": "Create complex applications using GPT API"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "OpenAI",
+                "url": "https://www.youtube.com/c/OpenAI",
+                "description": "Official OpenAI channel with GPT tutorials and updates"
+            },
+            {
+                "name": "AI Explained",
+                "url": "https://www.youtube.com/c/aiexplained-official",
+                "description": "Latest AI research and LLM developments explained"
+            },
+            {
+                "name": "Prompt Engineering",
+                "url": "https://www.youtube.com/c/promptengineering",
+                "description": "Advanced prompting techniques and strategies"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "Hugging Face Course",
+                "url": "https://huggingface.co/course/chapter1/1",
+                "description": "Complete course on transformers and NLP"
+            },
+            {
+                "name": "OpenAI Cookbook",
+                "url": "https://cookbook.openai.com/",
+                "description": "Code examples and best practices for OpenAI APIs"
+            },
+            {
+                "name": "LangChain Documentation",
+                "url": "https://python.langchain.com/docs/get_started/introduction.html",
+                "description": "Comprehensive guide to building LLM applications"
+            }
+        ]
+    },
+    "web_development": {
+        "title": "Web Development",
+        "featured_courses": [
+            {
+                "name": "The Web Developer Bootcamp 2025",
+                "instructor": "Colt Steele",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.7,
+                "duration": "60+ hours",
+                "level": "Beginner to Intermediate",
+                "description": "Comprehensive web development course covering HTML, CSS, JS, Node, and more"
+            },
+            {
+                "name": "CS50's Web Programming with Python and JavaScript",
+                "instructor": "Harvard Faculty",
+                "platform": "edX",
+                "url": "https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript",
+                "price": "Free to audit / $199 for certificate",
+                "rating": 4.8,
+                "duration": "12 weeks",
+                "level": "Intermediate",
+                "description": "Harvard's course on building web applications with Python and JavaScript"
+            },
+            {
+                "name": "React - The Complete Guide",
+                "instructor": "Maximilian Schwarzmüller",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.6,
+                "duration": "48 hours",
+                "level": "Beginner to Advanced",
+                "description": "Master React, including hooks, Redux, and Next.js"
+            },
+            {
+                "name": "Full-Stack Web Development with React Specialization",
+                "instructor": "The Hong Kong University of Science and Technology",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/full-stack-react",
+                "price": "Free to audit / $49/month",
+                "rating": 4.7,
+                "duration": "4 months",
+                "level": "Intermediate",
+                "description": "Build full-stack applications with React, Node.js, and MongoDB"
+            },
+            {
+                "name": "JavaScript: Understanding the Weird Parts",
+                "instructor": "Anthony Alicea",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/understand-javascript/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.8,
+                "duration": "11.5 hours",
+                "level": "Intermediate",
+                "description": "Deep dive into JavaScript's core concepts and advanced features"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "The Net Ninja",
+                "url": "https://www.youtube.com/c/TheNetNinja",
+                "description": "Tutorials on JavaScript, React, Node.js, and more"
+            },
+            {
+                "name": "Traversy Media",
+                "url": "https://www.youtube.com/c/TraversyMedia",
+                "description": "Web development tutorials and project walkthroughs"
+            },
+            {
+                "name": "Web Dev Simplified",
+                "url": "https://www.youtube.com/c/WebDevSimplified",
+                "description": "Simplified explanations of web development concepts"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "MDN Web Docs",
+                "url": "https://developer.mozilla.org/en-US/",
+                "description": "Comprehensive resource for HTML, CSS, and JavaScript documentation"
+            },
+            {
+                "name": "freeCodeCamp",
+                "url": "https://www.freecodecamp.org/",
+                "description": "Free coding bootcamp with web development projects"
+            },
+            {
+                "name": "The Odin Project",
+                "url": "https://www.theodinproject.com/",
+                "description": "Open-source full-stack web development curriculum"
+            }
+        ]
+    },
+    "cloud_computing": {
+        "title": "Cloud Computing",
+        "featured_courses": [
+            {
+                "name": "AWS Certified Solutions Architect – Associate",
+                "instructor": "Stephane Maarek",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.7,
+                "duration": "26 hours",
+                "level": "Beginner to Intermediate",
+                "description": "Prepare for AWS Solutions Architect certification with hands-on labs"
+            },
+            {
+                "name": "Google Cloud Professional Cloud Architect",
+                "instructor": "Google Cloud",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/professional-certificates/google-cloud-architect",
+                "price": "Free to audit / $49/month",
+                "rating": 4.7,
+                "duration": "4 months",
+                "level": "Intermediate",
+                "description": "Master Google Cloud architecture and certification preparation"
+            },
+            {
+                "name": "Microsoft Azure Fundamentals AZ-900",
+                "instructor": "Andrew Brown",
+                "platform": "freeCodeCamp",
+                "url": "https://www.youtube.com/watch?v=NKEFWyqJ5XA",
+                "price": "Free",
+                "rating": 4.8,
+                "duration": "7 hours",
+                "level": "Beginner",
+                "description": "Complete preparation for Azure AZ-900 certification"
+            },
+            {
+                "name": "Cloud Computing Foundations",
+                "instructor": "Duke University",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/learn/cloud-computing-foundations-duke",
+                "price": "Free to audit / $49/month",
+                "rating": 4.6,
+                "duration": "4 weeks",
+                "level": "Beginner",
+                "description": "Introduction to cloud computing concepts and services"
+            },
+            {
+                "name": "AWS Cloud Practitioner Essentials",
+                "instructor": "AWS",
+                "platform": "AWS Skill Builder",
+                "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials",
+                "price": "Free",
+                "rating": 4.7,
+                "duration": "6 hours",
+                "level": "Beginner",
+                "description": "Foundational AWS cloud concepts and services"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "Tech With Mosh",
+                "url": "https://www.youtube.com/c/programmingwithmosh",
+                "description": "Cloud computing and programming tutorials"
+            },
+            {
+                "name": "Cloud Academy",
+                "url": "https://www.youtube.com/c/CloudAcademy",
+                "description": "Cloud training for AWS, Azure, and Google Cloud"
+            },
+            {
+                "name": "A Cloud Guru",
+                "url": "https://www.youtube.com/c/ACloudGuru",
+                "description": "Cloud certification prep and tutorials"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "AWS Free Tier",
+                "url": "https://aws.amazon.com/free/",
+                "description": "Free hands-on experience with AWS services"
+            },
+            {
+                "name": "Microsoft Learn for Azure",
+                "url": "https://docs.microsoft.com/en-us/learn/azure/",
+                "description": "Free Azure learning paths and tutorials"
+            },
+            {
+                "name": "Google Cloud Free Program",
+                "url": "https://cloud.google.com/free",
+                "description": "Free credits and resources for Google Cloud"
+            }
+        ]
+    },
+    "devops": {
+        "title": "DevOps",
+        "featured_courses": [
+            {
+                "name": "DevOps on AWS Specialization",
+                "instructor": "AWS",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/aws-devops",
+                "price": "Free to audit / $49/month",
+                "rating": 4.6,
+                "duration": "4 months",
+                "level": "Intermediate",
+                "description": "Learn DevOps practices using AWS tools and services"
+            },
+            {
+                "name": "Docker and Kubernetes: The Complete Guide",
+                "instructor": "Stephen Grider",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.7,
+                "duration": "21 hours",
+                "level": "Beginner to Intermediate",
+                "description": "Build, deploy, and scale applications with Docker and Kubernetes"
+            },
+            {
+                "name": "Learn DevOps: The Complete Kubernetes Course",
+                "instructor": "Edward Viaene",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.5,
+                "duration": "14 hours",
+                "level": "Intermediate",
+                "description": "Master Kubernetes for container orchestration"
+            },
+            {
+                "name": "CI/CD with Jenkins and GitLab",
+                "instructor": "FreeCodeCamp",
+                "platform": "YouTube",
+                "url": "https://www.youtube.com/watch?v=4G1rXCPtJ8A",
+                "price": "Free",
+                "rating": 4.7,
+                "duration": "4 hours",
+                "level": "Intermediate",
+                "description": "Learn CI/CD pipelines using Jenkins and GitLab"
+            },
+            {
+                "name": "DevOps Fundamentals",
+                "instructor": "IBM",
+                "platform": "edX",
+                "url": "https://www.edx.org/course/devops-fundamentals",
+                "price": "Free to audit / $99 for certificate",
+                "rating": 4.6,
+                "duration": "6 weeks",
+                "level": "Beginner",
+                "description": "Introduction to DevOps principles and practices"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "TechWorld with Nana",
+                "url": "https://www.youtube.com/c/TechWorldwithNana",
+                "description": "DevOps, Docker, and Kubernetes tutorials"
+            },
+            {
+                "name": "KodeKloud",
+                "url": "https://www.youtube.com/c/KodeKloud",
+                "description": "Hands-on DevOps and cloud-native tutorials"
+            },
+            {
+                "name": "DevOps Directive",
+                "url": "https://www.youtube.com/c/DevOpsDirective",
+                "description": "Advanced DevOps concepts and tools"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "Kubernetes Tutorial for Beginners",
+                "url": "https://kubernetes.io/docs/tutorials/",
+                "description": "Official Kubernetes tutorials and documentation"
+            },
+            {
+                "name": "DevOps Roadmap",
+                "url": "https://roadmap.sh/devops",
+                "description": "Structured learning path for DevOps skills"
+            },
+            {
+                "name": "Jenkins Documentation",
+                "url": "https://www.jenkins.io/doc/",
+                "description": "Official Jenkins CI/CD documentation"
+            }
+        ]
+    },
+    "blockchain": {
+        "title": "Blockchain",
+        "featured_courses": [
+            {
+                "name": "Blockchain Specialization",
+                "instructor": "University at Buffalo",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/specializations/blockchain",
+                "price": "Free to audit / $49/month",
+                "rating": 4.6,
+                "duration": "4 months",
+                "level": "Beginner to Intermediate",
+                "description": "Comprehensive blockchain and cryptocurrency course"
+            },
+            {
+                "name": "Ethereum and Solidity: The Complete Developer's Guide",
+                "instructor": "Stephen Grider",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.6,
+                "duration": "24 hours",
+                "level": "Intermediate",
+                "description": "Build decentralized applications with Ethereum and Solidity"
+            },
+            {
+                "name": "Blockchain Basics",
+                "instructor": "University at Buffalo",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/learn/blockchain-basics",
+                "price": "Free to audit / $49/month",
+                "rating": 4.7,
+                "duration": "4 weeks",
+                "level": "Beginner",
+                "description": "Introduction to blockchain concepts and technology"
+            },
+            {
+                "name": "Blockchain Developer Nanodegree",
+                "instructor": "Udacity",
+                "platform": "Udacity",
+                "url": "https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309",
+                "price": "$399/month",
+                "rating": 4.6,
+                "duration": "4 months",
+                "level": "Intermediate",
+                "description": "Build blockchain applications with real-world projects"
+            },
+            {
+                "name": "Bitcoin and Cryptocurrency Technologies",
+                "instructor": "Princeton University",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/learn/cryptocurrency",
+                "price": "Free to audit / $49/month",
+                "rating": 4.7,
+                "duration": "11 weeks",
+                "level": "Intermediate",
+                "description": "Deep dive into Bitcoin and cryptocurrency technologies"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "Dapp University",
+                "url": "https://www.youtube.com/c/DappUniversity",
+                "description": "Blockchain and DApp development tutorials"
+            },
+            {
+                "name": "EatTheBlocks",
+                "url": "https://www.youtube.com/c/EatTheBlocks",
+                "description": "Smart contract and blockchain programming"
+            },
+            {
+                "name": "Crypto Zombie",
+                "url": "https://www.youtube.com/c/CryptoZombie",
+                "description": "Blockchain, crypto, and DeFi tutorials"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "Ethereum Developer Resources",
+                "url": "https://ethereum.org/en/developers/",
+                "description": "Official Ethereum developer documentation and resources"
+            },
+            {
+                "name": "Solidity Documentation",
+                "url": "https://docs.soliditylang.org/",
+                "description": "Official Solidity smart contract language guide"
+            },
+            {
+                "name": "CryptoKitties Codebase",
+                "url": "https://github.com/cryptokitties",
+                "description": "Open-source blockchain game code for learning"
+            }
+        ]
+    },
+    "mobile_development": {
+        "title": "Mobile Development",
+        "featured_courses": [
+            {
+                "name": "The Complete Flutter Development Bootcamp",
+                "instructor": "Angela Yu",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/flutter-bootcamp-with-dart/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.6,
+                "duration": "28 hours",
+                "level": "Beginner to Intermediate",
+                "description": "Build iOS and Android apps with Flutter and Dart"
+            },
+            {
+                "name": "Android Development with Kotlin",
+                "instructor": "Google",
+                "platform": "Coursera",
+                "url": "https://www.coursera.org/professional-certificates/android-app-development",
+                "price": "Free to audit / $49/month",
+                "rating": 4.7,
+                "duration": "6 months",
+                "level": "Beginner to Intermediate",
+                "description": "Official Google course for Android app development with Kotlin"
+            },
+            {
+                "name": "iOS & Swift - The Complete iOS App Development Bootcamp",
+                "instructor": "Angela Yu",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.8,
+                "duration": "60 hours",
+                "level": "Beginner to Advanced",
+                "description": "Build iOS apps with Swift and Xcode"
+            },
+            {
+                "name": "React Native - The Practical Guide",
+                "instructor": "Maximilian Schwarzmüller",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/react-native-the-practical-guide/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.7,
+                "duration": "28 hours",
+                "level": "Beginner to Intermediate",
+                "description": "Build cross-platform mobile apps with React Native"
+            },
+            {
+                "name": "SwiftUI Masterclass",
+                "instructor": "Robert Petras",
+                "platform": "Udemy",
+                "url": "https://www.udemy.com/course/swiftui-masterclass-course/",
+                "price": "$84.99 (often discounted)",
+                "rating": 4.6,
+                "duration": "14 hours",
+                "level": "Beginner to Intermediate",
+                "description": "Learn SwiftUI for modern iOS app development"
+            }
+        ],
+        "youtube_channels": [
+            {
+                "name": "CodeWithChris",
+                "url": "https://www.youtube.com/c/CodeWithChris",
+                "description": "iOS development tutorials with Swift and Xcode"
+            },
+            {
+                "name": "The Flutter Way",
+                "url": "https://www.youtube.com/c/TheFlutterWay",
+                "description": "Flutter app development tutorials and projects"
+            },
+            {
+                "name": "Reso Coder",
+                "url": "https://www.youtube.com/c/ResoCoder",
+                "description": "Advanced Flutter and Dart tutorials"
+            }
+        ],
+        "free_resources": [
+            {
+                "name": "Swift.org",
+                "url": "https://swift.org/documentation/",
+                "description": "Official Swift programming language documentation"
+            },
+            {
+                "name": "Flutter Documentation",
+                "url": "https://flutter.dev/docs",
+                "description": "Official Flutter framework documentation"
+            },
+            {
+                "name": "Android Developer Guides",
+                "url": "https://developer.android.com/guide",
+                "description": "Official Android development resources"
+            }
+        ]
+    }
+}

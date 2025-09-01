@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resources by SmdSpace</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo">
+            <h1 class="top" >FindLMS</h1>
+            </div>
+            <div class="header-controls">
+                <!-- <button class="theme-toggle" id="themeToggle">
+                    <span class="theme-icon">🌙</span>
+                </button> -->
+                <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                    <span class="hamburger">☰</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Layout -->
+    <div class="main-layout">
+        <!-- Sidebar Navigation -->
+       <nav class="sidebar" id="sidebar">
+            <ul class="nav-menu">
+            <li><a href="#dashboard" class="nav-link active" data-section="dashboard">
+            <span class="nav-icon material-symbols-outlined">dashboard</span>
+            <span class="nav-text">Dashboard</span>
+            </a></li>
+            <li><a href="#search" class="nav-link" data-section="search">
+            <span class="nav-icon material-symbols-outlined">search</span>
+            <span class="nav-text">Web Search</span>
+            </a></li>
+            <li><a href="#ai-ml" class="nav-link" data-section="ai-ml">
+            <span class="nav-icon material-symbols-outlined">smart_toy</span>
+            <span class="nav-text">AI & ML</span>
+            </a></li>
+            <li><a href="#genai" class="nav-link" data-section="genai">
+            <span class="nav-icon material-symbols-outlined">lightbulb</span>
+            <span class="nav-text">GenAI & LLMs</span>
+            </a></li>
+            <li><a href="#data-science" class="nav-link" data-section="data-science">
+            <span class="nav-icon material-symbols-outlined">analytics</span>
+            <span class="nav-text">Data Science</span>
+            </a></li>
+            <li><a href="#cybersecurity" class="nav-link" data-section="cybersecurity">
+            <span class="nav-icon material-symbols-outlined">security</span>
+            <span class="nav-text">Cybersecurity</span>
+            </a></li>
+            <li><a href="#quantum" class="nav-link" data-section="quantum">
+            <span class="nav-icon material-symbols-outlined">science</span>
+            <span class="nav-text">Quantum Computing</span>
+            </a></li>
+            <li><a href="#cloud-computing" class="nav-link" data-section="cloud-computing">
+            <span class="nav-icon material-symbols-outlined">cloud</span>
+            <span class="nav-text">Cloud Computing</span>
+            </a></li>
+            <li><a href="#web-development" class="nav-link" data-section="web-development">
+            <span class="nav-icon material-symbols-outlined">web</span>
+            <span class="nav-text">Web Development</span>
+            </a></li>  
+            <li><a href="#devops" class="nav-link" data-section="devops">
+            <span class="nav-icon material-symbols-outlined">deployed_code</span>
+            <span class="nav-text">DevOps</span>
+            </a></li>
+            <li><a href="#blockchain" class="nav-link" data-section="blockchain">
+            <span class="nav-icon material-symbols-outlined">link</span>
+            <span class="nav-text">Blockchain</span>
+            </a></li>
+            <li><a href="#mobile-development" class="nav-link" data-section="mobile-development">
+            <span class="nav-icon material-symbols-outlined">phone_android</span>
+            <span class="nav-text">Mobile Development</span>
+            </a></li>
+            </ul>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Dashboard Section -->
+            <section id="dashboard" class="content-section active">
+                <div class="section-header">
+                    <div class="section-title">
+                        <h2>Trend's :</h2>
+                        <!-- <p>Overview of emerging technology sectors and market trends</p> -->
+                    </div>
+                </div>
+
+                <!-- Key Statistics Cards -->
+                <div class="stats-grid">
+                    <div class="stat-card electric-blue">
+                        <div class="stat-content">
+                            <div class="stat-icon">🤖</div>
+                            <div class="stat-info">
+                                <h3>AI Market Size</h3>
+                                <div class="stat-number" data-target="391">$0B</div>
+                                <p>Projected to reach $1.8T by 2030</p>
+                                <div class="stat-trend">+35.9% CAGR</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stat-card vibrant-purple">
+                        <div class="stat-content">
+                            <div class="stat-icon">📊</div>
+                            <div class="stat-info">
+                                <h3>Data Science Jobs</h3>
+                                <div class="stat-number" data-target="36">0%</div>
+                                <p>Employment growth 2023-2033</p>
+                                <div class="stat-trend">+11M positions</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stat-card emerald-green">
+                        <div class="stat-content">
+                            <div class="stat-icon">🔒</div>
+                            <div class="stat-info">
+                                <h3>Cybersecurity Spending</h3>
+                                <div class="stat-number" data-target="377">$0B</div>
+                                <p>Global spending by 2028</p>
+                                <div class="stat-trend">+9.3% CAGR</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stat-card bright-orange">
+                        <div class="stat-content">
+                            <div class="stat-icon">⚛️</div>
+                            <div class="stat-info">
+                                <h3>Quantum Computing</h3>
+                                <div class="stat-number" data-target="33">0%</div>
+                                <p>Market growth through 2029</p>
+                                <div class="stat-trend">$5.4B by 2029</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts Section -->
+                <div class="dashboard-charts">
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <h3>Market Size Projections</h3>
+                            <div class="chart-controls">
+                                <button class="btn btn-secondary btn-sm">2024</button>
+                                <button class="btn btn-primary btn-sm">2030</button>
+                            </div>
+                        </div>
+                        <div class="chart-container" style="position: relative; height: 400px;">
+                            <canvas id="marketChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <h3>Regional ML Adoption</h3>
+                            <div class="chart-legend">
+                                <span class="legend-item">
+                                    <div class="legend-color" style="background: #0066FF;"></div>
+                                    North America
+                                </span>
+                            </div>
+                        </div>
+                        <div class="chart-container" style="position: relative; height: 400px;">
+                            <canvas id="adoptionChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Trending Topics -->
+                <div class="trending-section">
+                    <div class="section-title">
+                        <h3>🔥 Personal view:</h3>
+                    </div>
+                    <div class="trending-grid">
+                        <div class="trending-item">
+                            <div class="trend-rank">#1</div>
+                            <div class="trend-content">
+                                <h4>Agentic AI Systems</h4>
+                                <p>Virtual coworkers with autonomous capabilities</p>
+                            </div>
+                            <div class="trend-growth">+125%</div>
+                        </div>
+                        <div class="trending-item">
+                            <div class="trend-rank">#2</div>
+                            <div class="trend-content">
+                                <h4>Quantum Machine Learning</h4>
+                                <p>AI enhanced by quantum computing power</p>
+                            </div>
+                            <div class="trend-growth">+89%</div>
+                        </div>
+                        <div class="trending-item">
+                            <div class="trend-rank">#3</div>
+                            <div class="trend-content">
+                                <h4>Zero Trust Security</h4>
+                                <p>Modern cybersecurity architecture</p>
+                            </div>
+                            <div class="trend-growth">+76%</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bookmarks Section -->
+                <div class="bookmarks-section">
+                    <div class="bookmarks-header">
+                        <h3>📚 Bookmarked Courses</h3>
+                        <button class="btn btn-outline btn-sm">Export Bookmarks</button>
+                    </div>
+                    <div class="bookmarks-container" id="bookmarksList">
+                        <div class="empty-bookmarks">
+                            <div class="empty-icon">📖</div>
+                            <p>No courses bookmarked yet</p>
+                            <p>Bookmark courses to save them for later</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- AI & ML Section -->
+            <section id="ai-ml" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2> Artificial Intelligence & Machine Learning</h2> -->
+                        <p>Master AI fundamentals with courses from top universities and tech companies</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="aiCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="aiChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="aiResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Data Science Section -->
+            <section id="data-science" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>📈 Data Science & Analytics</h2> -->
+                        <p>Build data science expertise with hands-on courses and practical projects</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="dataScienceCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="dataScienceChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="dataScienceResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Cybersecurity Section -->
+            <section id="cybersecurity" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>🔒 Cybersecurity & Information Security</h2> -->
+                        <p>Protect digital assets with professional cybersecurity training</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="cybersecurityCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="cybersecurityChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="cybersecurityResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Quantum Computing Section -->
+            <section id="quantum" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>⚛️ Quantum Computing</h2> -->
+                        <p>Explore quantum computing fundamentals and advanced applications</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="quantumCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="quantumChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="quantumResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- GenAI & LLMs Section -->
+            <section id="genai" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>🧠 Generative AI & Large Language Models</h2> -->
+                        <p>Master the latest in generative AI and large language model technologies</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="genaiCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="genaiChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="genaiResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Web Development Section -->
+            <section id="web-development" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>🌐 Web Development</h2> -->
+                        <p>Build modern web applications with cutting-edge frameworks and tools</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="webDevelopmentCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="webDevelopmentChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="webDevelopmentResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Cloud Computing Section -->
+            <section id="cloud-computing" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>☁️ Cloud Computing</h2> -->
+                        <p>Learn cloud infrastructure and services from leading providers</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="cloudComputingCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="cloudComputingChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="cloudComputingResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- DevOps Section -->
+            <section id="devops" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>⚙️ DevOps</h2> -->
+                        <p>Master DevOps practices for efficient software delivery</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="devopsCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="devopsChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="devopsResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Blockchain Section -->
+            <section id="blockchain" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>🔗 Blockchain</h2> -->
+                        <p>Explore blockchain technology and decentralized applications</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="blockchainCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="blockchainChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="blockchainResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Mobile Development Section -->
+            <section id="mobile-development" class="content-section">
+                <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>📱 Mobile Development</h2> -->
+                        <p>Create mobile apps for iOS and Android platforms</p>
+                    </div>
+                    <div class="header-actions">
+                        <div class="filter-controls">
+                            <button class="btn btn-outline btn-sm filter-btn active" data-filter="all">All</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="free">Free</button>
+                            <button class="btn btn-outline btn-sm filter-btn" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="study-content">
+                    <div class="courses-section">
+                        <h3>🎓 Featured Courses</h3>
+                        <div class="courses-grid" id="mobileDevelopmentCourses"></div>
+                    </div>
+                    <div class="channels-section">
+                        <h3>📺 Top YouTube Channels</h3>
+                        <div class="channels-grid" id="mobileDevelopmentChannels"></div>
+                    </div>
+                    <div class="resources-section">
+                        <h3>🆓 Free Learning Resources</h3>
+                        <div class="resources-grid" id="mobileDevelopmentResources"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Web Search Section -->
+            <section id="search" class="content-section">
+                <!-- <div class="section-header">
+                    <div class="section-title">
+                        <!-- <h2>🔍 Advanced Course Search</h2> -->
+                        <!-- <p>Search and discover courses across all technology domains</p> -->
+                    <!-- </div>
+                </div> --> 
+                <div class="search-interface">
+                    <div class="search-header">
+                        <div class="search-container">
+                            <input type="text" class="search-input" placeholder="Search courses, tutorials, resources..." id="searchInput">
+                            <button class="search-btn" id="searchBtn">
+                                <span>🔍</span>
+                                Search
+                            </button>
+                        </div>
+                    </div>
+                    <div class="search-filters">
+                        <h3>Filters</h3>
+                        <div class="filter-chips">
+                            <button class="filter-chip active" data-filter="all">All</button>
+                            <button class="filter-chip" data-filter="courses">Courses</button>
+                            <button class="filter-chip" data-filter="youtube">YouTube</button>
+                            <button class="filter-chip" data-filter="free">Free Only</button>
+                            <button class="filter-chip" data-filter="paid">Paid</button>
+                        </div>
+                    </div>
+                    <div class="search-suggestions">
+                        <br>
+                        <h3>🔥 Popular Course Topics</h3>
+                        <div class="suggestion-grid">
+                            <button class="suggestion-tag">Machine Learning</button>
+                            <button class="suggestion-tag">Python for Data Science</button>
+                            <button class="suggestion-tag">Cybersecurity Fundamentals</button>
+                            <button class="suggestion-tag">Quantum Computing</button>
+                            <button class="suggestion-tag">ChatGPT & LLMs</button>
+                            <button class="suggestion-tag">React</button>
+                            <button class="suggestion-tag">AWS</button>
+                            <button class="suggestion-tag">Docker</button>
+                            <button class="suggestion-tag">Blockchain</button>
+                            <button class="suggestion-tag">Flutter</button>
+                        </div>
+                    </div>
+                    <div class="search-results hidden" id="searchResults">
+                        <div class="results-header">
+                            <h3>Search Results</h3>
+                            <div class="results-count" id="resultsCount">0 results</div>
+                        </div>
+                        <div class="results-container" id="resultsList"></div>
+                    </div>
+                    <div class="bookmarks-section">
+                        <div class="bookmarks-header">
+                            <h3>📚 Bookmarked Courses</h3>
+                            <button class="btn btn-outline btn-sm">Export Bookmarks</button>
+                        </div>
+                        <div class="bookmarks-container" id="bookmarksList">
+                            <div class="empty-bookmarks">
+                                <div class="empty-icon">📖</div>
+                                <p>No courses bookmarked yet</p>
+                                <p>Bookmark courses to save them for later</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay hidden" id="loadingOverlay">
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>Loading content...</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
