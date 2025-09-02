@@ -51,5 +51,6 @@ The project is a static site, so it's simple to get started. Just clone the repo
 ```bash
 git clone
 cd your-repository
+```
 
 Developed by [Smdspace](https://github.com/smdspace-dev)
